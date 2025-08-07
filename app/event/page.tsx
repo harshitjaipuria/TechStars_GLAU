@@ -82,10 +82,7 @@ export default function Event() {
 																		</div>
 																	</div>
 																</div>
-																<div className="space24" />
-																<div className="btn-area1">
-																	<Link href="/pricing-plan" className="vl-btn1"><span className="demo">purchase ticket Now</span></Link>
-																</div>
+																<div className="space24" />												
 															</div>
 														</div>
 													</div>
