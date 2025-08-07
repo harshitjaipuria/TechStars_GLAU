@@ -11,22 +11,18 @@ export default function Footer1() {
 							<div className="footer-logo-area">
 								<img src="/assets/img/logo/logo2.png" alt="" />
 								<div className="space16" />
-								<p>We are committed to creating a platform where business leaders, innovators, and professionals
-									can come together to exchange ideas</p>
+								<p>Techstars is a global startup accelerator that helps entrepreneurs grow their businesses through mentorship, funding, and networking opportunities.</p>
 								<div className="space24" />
 								<ul>
 									<li>
-										<Link href="/#"><i className="fa-brands fa-facebook-f" /></Link>
+										<Link href="https://www.facebook.com/ecellglau/"><i className="fa-brands fa-facebook-f" /></Link>
 									</li>
 									<li>
-										<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
+										<Link href="https://www.instagram.com/techstarsglau"><i className="fa-brands fa-instagram" /></Link>
 									</li>
 									<li>
-										<Link href="/#"><i className="fa-brands fa-linkedin-in" /></Link>
-									</li>
-									<li>
-										<Link href="/#" className="m-0"><i className="fa-brands fa-pinterest-p" /></Link>
-									</li>
+										<Link href="https://www.linkedin.com/company/ecellglau/"><i className="fa-brands fa-linkedin-in" /></Link>
+									</li>									
 								</ul>
 							</div>
 						</div>
@@ -35,7 +31,6 @@ export default function Footer1() {
 								<h3>Quick Links</h3>
 								<ul>
 									<li><Link href="/about">About Us</Link></li>
-									<li><Link href="/blog">Our Blogs</Link></li>
 									<li><Link href="/event">Event Listing</Link></li>
 									<li><Link href="/pricing-plan">Pricing Plan</Link></li>
 									<li><Link href="/contact">Contact Us</Link></li>
@@ -47,18 +42,16 @@ export default function Footer1() {
 								<h3>Contact Us</h3>
 								<ul>
 									<li>
-										<Link href="/tel:+11234567890"><img src="/assets/img/icons/phn1.svg" alt="" />+1 123 456
-											7890</Link>
+										<Link href="/tel:+11234567890"><img src="/assets/img/icons/phn1.svg" alt="" />+91 8076527770</Link>
 									</li>
 									<li>
-										<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The
-											UK</Link>
+										<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />GLA University, Mathura</Link>
 									</li>
 									<li>
-										<Link href="/mailto:eventifyevent@gmail.com"><img src="/assets/img/icons/mail1.svg" alt="" />eventifyevent@gmail.com</Link>
+										<Link href="/mailto:eventifyevent@gmail.com"><img src="/assets/img/icons/mail1.svg" alt="" />techstarsglau@gla.ac.in</Link>
 									</li>
 									<li>
-										<Link href="/#"> <img src="/assets/img/icons/world1.svg" alt="" />eventifyevent.com</Link>
+										<Link href="/#"> <img src="/assets/img/icons/world1.svg" alt="" />https://www.gla.ac.in/ecell/</Link>
 									</li>
 								</ul>
 							</div>
@@ -124,7 +117,7 @@ export default function Footer1() {
 					<div className="row">
 						<div className="col-lg-12">
 							<div className="copyright">
-								<p>© Copyright {new Date().getFullYear()} -Eventify. All Right Reserved</p>
+								<p>© Copyright {new Date().getFullYear()} - E Cell GLAU. All Right Reserved</p>
 							</div>
 						</div>
 					</div>
