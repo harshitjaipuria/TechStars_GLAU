@@ -47,6 +47,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 													<li><Link href="/contact">Contact Us</Link></li>
 												</ul>
 											</li>
+											<li><Link href="/organizing-committee">Organizers</Link></li>
 										</ul>
 									</div>
 									<div className="btn-area">
