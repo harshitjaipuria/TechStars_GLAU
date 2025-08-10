@@ -32,7 +32,7 @@ export default function Footer1() {
 								<ul>
 									<li><Link href="/about">About Us</Link></li>
 									<li><Link href="/event">Event Listing</Link></li>
-									<li><Link href="/pricing-plan">Pricing Plan</Link></li>
+									<li><Link href="https://forms.gle/yEALg7Uybmt5KjXB9">Get Tickets</Link></li>
 									<li><Link href="/contact">Contact Us</Link></li>
 								</ul>
 							</div>

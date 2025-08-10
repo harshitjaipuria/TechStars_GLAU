@@ -18,8 +18,7 @@ const getPartsOfTimeDuration = (duration: number) => {
 export default function Countdown({ style }: any) {
 	const [timeDif, setTimeDif] = useState(() => {
 		const now = Date.now()
-		const endDateTime = new Date()
-		endDateTime.setDate(endDateTime.getDate() + 2) // Set end date 2 days from now
+		const endDateTime = new Date('2025-09-12T00:00:00') // Set end date to September 12, 2024
 		return endDateTime.getTime() - now
 	})
 
