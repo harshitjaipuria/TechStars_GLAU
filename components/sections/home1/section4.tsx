@@ -62,9 +62,8 @@ export default function Section4() {
 					<div className="row">
 						<div className="col-lg-6">
 							<div className="team-header space-margin60 heading2">
-								<h5 data-aos="fade-left" data-aos-duration={800}>our 10+ event speakers</h5>
 								<div className="space16" />
-								<h2 className="text-anime-style-3">Business Breakthrough Team</h2>
+								<h2 className="text-anime-style-3">Our's Judges and Mentors</h2>
 							</div>
 						</div>
 					</div>

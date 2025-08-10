@@ -24339,7 +24339,7 @@ html {
 	line-height: 40px;
 	border-radius: 50%;
 	transition: all 0.4s;
-	background: #FFBA00;
+	background: #469744;
 	display: inline-block;
 	position: absolute;
 	bottom: 0;
@@ -24385,7 +24385,7 @@ html {
 }
 
 .event-sidepage-section-area .event-side-images .our-team-boxarea .team-widget-area .img1 ul li a:hover {
-	background: #FFBA00;
+	background: #469744;
 	transition: all 0.4s;
 	color: var(--ztc-text-text-2);
 }
@@ -24604,7 +24604,7 @@ html {
 
 .event-single-section-area .tabs-button ul li button.active {
 	border-radius: 8px;
-	background: #FFBA00;
+	background: #469744;
 	transition: all 0.4s;
 }
 
@@ -24629,7 +24629,7 @@ html {
 
 .event-single-section-area .tabs-button ul li button span.calender {
 	border-radius: 4px;
-	background: #FFBA00;
+	background: #469744;
 	height: 43px;
 	width: 55px;
 	text-align: center;
@@ -24725,7 +24725,7 @@ html {
 }
 
 .event-single-section-area .tab-content .tab-pane .event-widget-area .event2-boxarea h1.active {
-	background: #FFBA00;
+	background: #469744;
 	color: var(--ztc-text-text-2);
 }
 
