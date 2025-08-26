@@ -17,19 +17,11 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 										<ul>
 											<li><Link href="/about">About Event</Link></li>
 											<li>
-												<Link href="/#">Speakers <i className="fa-solid fa-angle-down" /></Link>
-												<ul className="dropdown-padding">
-													<li><Link href="/speakers">Speakers</Link></li>
-													<li><Link href="/speakers-single">Speakers Details</Link></li>
-												</ul>
+												<Link href="/speakers">Speakers <i className="" /></Link>
 											</li>
 											<li>
-												<Link href="/#">Schedule <i className="fa-solid fa-angle-down" /></Link>
-												<ul className="dropdown-padding">
-													<li><Link href="/event">Our Event</Link></li>
-													<li><Link href="/event-schedule">Event Schedule</Link></li>
-													<li><Link href="/event-single">Event Details</Link></li>
-												</ul>
+												<Link href="/event">Schedule <i className="" /></Link>
+
 											</li>
 											<li><Link href="/organizing-committee">Organizers</Link></li>
 										</ul>

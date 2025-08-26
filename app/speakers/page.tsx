@@ -9,7 +9,7 @@ export default function Speakers() {
 
 			<Layout headerStyle={1} footerStyle={1}>
 				<div>
-					<div className="inner-page-header" style={{ backgroundImage: 'url(assets/img/bg/header-bg6.png)' }}>
+					<div className="inner-page-header" style={{ backgroundImage: 'url(/assets/img/bg/header-bg6.png)' }}>
 						<div className="container">
 							<div className="row">
 								<div className="col-lg-5 m-auto">
@@ -35,29 +35,15 @@ export default function Speakers() {
 											<div className="img1">
 												<img src="/assets/img/all-images/team/team-img12.png" alt="" className="team-img4" />
 												<div className="share">
-													<Link href="/#"><img src="/assets/img/icons/share1.svg" alt="" /></Link>
+													<Link href="https://www.linkedin.com/in/rajib-banerjee-6922b99/" className="icon2"><i className="fa-brands fa-linkedin-in" /></Link>
 												</div>
-												<ul>
-													<li>
-														<Link href="/#" className="icon1"><i className="fa-brands fa-facebook-f" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon2"><i className="fa-brands fa-linkedin-in" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon3"><i className="fa-brands fa-instagram" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon4"><i className="fa-brands fa-pinterest-p" /></Link>
-													</li>
-												</ul>
 											</div>
 										</div>
 										<div className="space28" />
 										<div className="content-area">
-											<Link href="/speakers-single">Alex Robertson</Link>
+											<Link href="/speakers-single">Rajib Banerjee</Link>
 											<div className="space16" />
-											<p>UI/UX Designer</p>
+											<p>Speaker</p>
 										</div>
 									</div>
 								</div>
@@ -69,29 +55,15 @@ export default function Speakers() {
 											<div className="img1">
 												<img src="/assets/img/all-images/team/team-img13.png" alt="" className="team-img4" />
 												<div className="share">
-													<Link href="/#"><img src="/assets/img/icons/share1.svg" alt="" /></Link>
+												    <Link href="https://www.linkedin.com/in/rahullakhmani/" className="icon2"><i className="fa-brands fa-linkedin-in" /></Link>
 												</div>
-												<ul>
-													<li>
-														<Link href="/#" className="icon1"><i className="fa-brands fa-facebook-f" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon2"><i className="fa-brands fa-linkedin-in" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon3"><i className="fa-brands fa-instagram" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon4"><i className="fa-brands fa-pinterest-p" /></Link>
-													</li>
-												</ul>
 											</div>
 										</div>
 										<div className="space28" />
 										<div className="content-area">
-											<Link href="/speakers-single">Alexy Sammony</Link>
+											<Link href="/speakers-single">Rahul Lakhmani</Link>
 											<div className="space16" />
-											<p>UI/UX Designer</p>
+											<p>Speaker</p>
 										</div>
 									</div>
 								</div>
@@ -103,63 +75,15 @@ export default function Speakers() {
 											<div className="img1">
 												<img src="/assets/img/all-images/team/team-img14.png" alt="" className="team-img4" />
 												<div className="share">
-													<Link href="/#"><img src="/assets/img/icons/share1.svg" alt="" /></Link>
+													<Link href="https://www.linkedin.com/in/himanshusinglaa/" className="icon2"><i className="fa-brands fa-linkedin-in" /></Link>
 												</div>
-												<ul>
-													<li>
-														<Link href="/#" className="icon1"><i className="fa-brands fa-facebook-f" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon2"><i className="fa-brands fa-linkedin-in" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon3"><i className="fa-brands fa-instagram" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon4"><i className="fa-brands fa-pinterest-p" /></Link>
-													</li>
-												</ul>
 											</div>
 										</div>
 										<div className="space28" />
 										<div className="content-area">
-											<Link href="/speakers-single">Kireon Pollardy</Link>
+											<Link href="/speakers-single">Himanshu Singla</Link>
 											<div className="space16" />
-											<p>UI/UX Designer</p>
-										</div>
-									</div>
-								</div>
-								<div className="col-lg-3 col-md-6">
-									<div className="our-team-boxarea">
-										<div className="team-widget-area">
-											<img src="/assets/img/elements/elements25.png" alt="" className="elements21" />
-											<img src="/assets/img/elements/elements26.png" alt="" className="elements22" />
-											<div className="img1">
-												<img src="/assets/img/all-images/team/team-img15.png" alt="" className="team-img4" />
-												<div className="share">
-													<Link href="/#"><img src="/assets/img/icons/share1.svg" alt="" /></Link>
-												</div>
-												<ul>
-													<li>
-														<Link href="/#" className="icon1"><i className="fa-brands fa-facebook-f" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon2"><i className="fa-brands fa-linkedin-in" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon3"><i className="fa-brands fa-instagram" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon4"><i className="fa-brands fa-pinterest-p" /></Link>
-													</li>
-												</ul>
-											</div>
-										</div>
-										<div className="space28" />
-										<div className="content-area">
-											<Link href="/speakers-single">Adresy Ineasta</Link>
-											<div className="space16" />
-											<p>UI/UX Designer</p>
+											<p>Speaker</p>
 										</div>
 									</div>
 								</div>
@@ -171,131 +95,15 @@ export default function Speakers() {
 											<div className="img1">
 												<img src="/assets/img/all-images/team/team-img16.png" alt="" className="team-img4" />
 												<div className="share">
-													<Link href="/#"><img src="/assets/img/icons/share1.svg" alt="" /></Link>
+													<Link href="https://www.linkedin.com/in/devansh-s-bhatt-a999481a1/" className="icon2"><i className="fa-brands fa-linkedin-in" /></Link>
 												</div>
-												<ul>
-													<li>
-														<Link href="/#" className="icon1"><i className="fa-brands fa-facebook-f" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon2"><i className="fa-brands fa-linkedin-in" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon3"><i className="fa-brands fa-instagram" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon4"><i className="fa-brands fa-pinterest-p" /></Link>
-													</li>
-												</ul>
 											</div>
 										</div>
 										<div className="space28" />
 										<div className="content-area">
-											<Link href="/speakers-single">Alex Robertson</Link>
+											<Link href="/speakers-single">Devansh S Bhatt</Link>
 											<div className="space16" />
-											<p>UI/UX Designer</p>
-										</div>
-									</div>
-								</div>
-								<div className="col-lg-3 col-md-6">
-									<div className="our-team-boxarea">
-										<div className="team-widget-area">
-											<img src="/assets/img/elements/elements25.png" alt="" className="elements21" />
-											<img src="/assets/img/elements/elements26.png" alt="" className="elements22" />
-											<div className="img1">
-												<img src="/assets/img/all-images/team/team-img17.png" alt="" className="team-img4" />
-												<div className="share">
-													<Link href="/#"><img src="/assets/img/icons/share1.svg" alt="" /></Link>
-												</div>
-												<ul>
-													<li>
-														<Link href="/#" className="icon1"><i className="fa-brands fa-facebook-f" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon2"><i className="fa-brands fa-linkedin-in" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon3"><i className="fa-brands fa-instagram" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon4"><i className="fa-brands fa-pinterest-p" /></Link>
-													</li>
-												</ul>
-											</div>
-										</div>
-										<div className="space28" />
-										<div className="content-area">
-											<Link href="/speakers-single">Alexy Sammony</Link>
-											<div className="space16" />
-											<p>UI/UX Designer</p>
-										</div>
-									</div>
-								</div>
-								<div className="col-lg-3 col-md-6">
-									<div className="our-team-boxarea">
-										<div className="team-widget-area">
-											<img src="/assets/img/elements/elements25.png" alt="" className="elements21" />
-											<img src="/assets/img/elements/elements26.png" alt="" className="elements22" />
-											<div className="img1">
-												<img src="/assets/img/all-images/team/team-img18.png" alt="" className="team-img4" />
-												<div className="share">
-													<Link href="/#"><img src="/assets/img/icons/share1.svg" alt="" /></Link>
-												</div>
-												<ul>
-													<li>
-														<Link href="/#" className="icon1"><i className="fa-brands fa-facebook-f" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon2"><i className="fa-brands fa-linkedin-in" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon3"><i className="fa-brands fa-instagram" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon4"><i className="fa-brands fa-pinterest-p" /></Link>
-													</li>
-												</ul>
-											</div>
-										</div>
-										<div className="space28" />
-										<div className="content-area">
-											<Link href="/speakers-single">Alexy Sammony</Link>
-											<div className="space16" />
-											<p>UI/UX Designer</p>
-										</div>
-									</div>
-								</div>
-								<div className="col-lg-3 col-md-6">
-									<div className="our-team-boxarea">
-										<div className="team-widget-area">
-											<img src="/assets/img/elements/elements25.png" alt="" className="elements21" />
-											<img src="/assets/img/elements/elements26.png" alt="" className="elements22" />
-											<div className="img1">
-												<img src="/assets/img/all-images/team/team-img19.png" alt="" className="team-img4" />
-												<div className="share">
-													<Link href="/#"><img src="/assets/img/icons/share1.svg" alt="" /></Link>
-												</div>
-												<ul>
-													<li>
-														<Link href="/#" className="icon1"><i className="fa-brands fa-facebook-f" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon2"><i className="fa-brands fa-linkedin-in" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon3"><i className="fa-brands fa-instagram" /></Link>
-													</li>
-													<li>
-														<Link href="/#" className="icon4"><i className="fa-brands fa-pinterest-p" /></Link>
-													</li>
-												</ul>
-											</div>
-										</div>
-										<div className="space28" />
-										<div className="content-area">
-											<Link href="/speakers-single">Adresy Ineasta</Link>
-											<div className="space16" />
-											<p>UI/UX Designer</p>
+											<p>Speaker</p>
 										</div>
 									</div>
 								</div>
@@ -312,15 +120,15 @@ export default function Speakers() {
 										<div className="timer-btn-area">
 										<Countdown />
 											<div className="btn-area1">
-												<Link href="/pricing-plan" className="vl-btn1">Buy Ticket</Link>
+												<Link href="https://forms.gle/yEALg7Uybmt5KjXB9" className="vl-btn1">Buy Ticket</Link>
 											</div>
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />12 September 2025 - 14 September 2025</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />GLA University</Link>
 											</li>
 										</ul>
 									</div>

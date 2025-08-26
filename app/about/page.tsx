@@ -11,7 +11,7 @@ export default function About() {
 
 			<Layout headerStyle={1} footerStyle={1}>
 				<div>
-					<div className="inner-page-header" style={{ backgroundImage: 'url(assets/img/bg/header-bg5.png)' }}>
+					<div className="inner-page-header" style={{ backgroundImage: 'url(/assets/img/bg/header-bg6.png)' }}>
 						<div className="container">
 							<div className="row">
 								<div className="col-lg-4 m-auto">
@@ -63,32 +63,32 @@ export default function About() {
 								</div>
 								<div className="col-lg-6">
 									<div className="about-header-area heading2">
-										<h5 data-aos="fade-left" data-aos-duration={800}>about our Business conferences</h5>
+										<h5 data-aos="fade-left" data-aos-duration={800}>About TechStars Startup Weekend GLAU</h5>
 										<div className="space16" />
-										<h2 className="text-anime-style-3">Explore Future Of Design At Our Yearly Conference</h2>
+										<h2 className="text-anime-style-3">Techstars is a global startup accelerator.</h2>
 										<div className="space16" />
-										<p data-aos="fade-left" data-aos-duration={900}>The Yearly Designer Conferences designed to challenge, Event inspire, and push the boundaries of what is possible in design. From emerging technologies to sustainable design practices.</p>
+										<p data-aos="fade-left" data-aos-duration={900}>Techstars is a global startup accelerator that supports early-stage entrepreneurs with mentorship, funding, and a powerful network. It helps founders scale their ideas into successful businesses worldwide.</p>
 										<div className="space32" />
 										<div className="about-counter-area">
 											<div className="counter-box">
-												<h2><CountUp className="odometer" enableScrollSpy={true} end={250} />+</h2>
+												<h2><CountUp className="odometer" enableScrollSpy={true} end={700} />K+</h2>
 												<div className="space18" />
-												<p>Our Journalist</p>
+												<p>Participants</p>
 											</div>
 											<div className="counter-box box2">
-												<h2><CountUp className="odometer" enableScrollSpy={true} end={15} />+</h2>
+												<h2><CountUp className="odometer" enableScrollSpy={true} end={9} />K+</h2>
 												<div className="space18" />
-												<p>Our Speaker</p>
+												<p>Programs</p>
 											</div>
 											<div className="counter-box box3" style={{ border: 'none' }}>
-												<h2><CountUp className="odometer" enableScrollSpy={true} end={7} />K+</h2>
+												<h2><CountUp className="odometer" enableScrollSpy={true} end={175} />+</h2>
 												<div className="space18" />
-												<p>Attendees</p>
+												<p>Countries</p>
 											</div>
 										</div>
 										<div className="space32" />
 										<div className="btn-area1" data-aos="fade-left" data-aos-duration={1200}>
-											<Link href="/contact" className="vl-btn1">Become an Attendee</Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9" className="vl-btn1">Become an Attendee</Link>
 										</div>
 									</div>
 								</div>
@@ -102,7 +102,7 @@ export default function About() {
 							<div className="row">
 								<div className="col-lg-5 m-auto">
 									<div className="brand-header heading4 space-margin60 text-center">
-										<h3>Join 4,000+ companies already growing</h3>
+										<h3>Organizers & Sponsers</h3>
 									</div>
 								</div>
 							</div>
@@ -130,90 +130,90 @@ export default function About() {
 								<div className="col-lg-4 col-md-6">
 									<div className="choose-widget-boxarea">
 										<div className="icons">
-											<img src="/assets/img/icons/choose-icons1.svg" alt="" />
+											<img src="/assets/img/icons/globalexposure.svg" alt="" />
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Make Ideas Happen</Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9">Global Exposure</Link>
 											<div className="space16" />
-											<p>Eventify 2024 brings together the brightest minds and industry leaders for best of transformative business.</p>
+											<p>Connect with a worldwide network of mentors, investors, and entrepreneurs.</p>
 											<div className="space24" />
-											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 									</div>
 								</div>
 								<div className="col-lg-4 col-md-6">
 									<div className="choose-widget-boxarea">
 										<div className="icons">
-											<img src="/assets/img/icons/choose-icons1.svg" alt="" />
+											<img src="/assets/img/icons/funds (1).svg" alt="" />
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Great Speakers</Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9">Funding Opportunity</Link>
 											<div className="space16" />
-											<p>Whether you're looking to elevate your business strategy, discover the latest industry trends, or connect.</p>
+											<p>Chance to secure seed investment and attract future investors.</p>
 											<div className="space24" />
-											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 									</div>
 								</div>
 								<div className="col-lg-4 col-md-6">
 									<div className="choose-widget-boxarea">
 										<div className="icons">
-											<img src="/assets/img/icons/choose-icons1.svg" alt="" />
+											<img src="/assets/img/icons/Mentorship.svg" alt="" />
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">One Day Ticket</Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9">Expert Mentorship</Link>
 											<div className="space16" />
-											<p>We empower businesses to thrive in an ever-evolving marketplace. This conference more than just an event.</p>
+											<p>Learn directly from experienced founders, industry leaders, and professionals.</p>
 											<div className="space24" />
-											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 									</div>
 								</div>
 								<div className="col-lg-4 col-md-6">
 									<div className="choose-widget-boxarea">
 										<div className="icons">
-											<img src="/assets/img/icons/choose-icons1.svg" alt="" />
+											<img src="/assets/img/icons/StartupGrowth.svg" alt="" />
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Develop Your Skills</Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9">Startup Growth</Link>
 											<div className="space16" />
-											<p>Eventify is your gateway to future of business. By bringing together best experts from various sectors.</p>
+											<p>Gain tools, strategies, and guidance to scale your idea into a successful business.</p>
 											<div className="space24" />
-											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 									</div>
 								</div>
 								<div className="col-lg-4 col-md-6">
 									<div className="choose-widget-boxarea">
 										<div className="icons">
-											<img src="/assets/img/icons/choose-icons1.svg" alt="" />
+											<img src="/assets/img/icons/Networking.svg" alt="" />
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Entry Verification</Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9">Networking</Link>
 											<div className="space16" />
-											<p>You'll walk away with a deeper best understanding of emerging trends and actionable strategies that can.</p>
+											<p>Build long-term connections with peers, alumni, and corporate partners.</p>
 											<div className="space24" />
-											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 									</div>
 								</div>
 								<div className="col-lg-4 col-md-6">
 									<div className="choose-widget-boxarea">
 										<div className="icons">
-											<img src="/assets/img/icons/choose-icons1.svg" alt="" />
+											<img src="/assets/img/icons/CareerEdge.svg" alt="" />
 										</div>
 										<div className="space24" />
 										<div className="content-area">
-											<Link href="/event-single">Workshops Offer</Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9">Career Edge</Link>
 											<div className="space16" />
-											<p>Designed for forward-thinking and professionals, this event delivers the tools, connections, and insights you.</p>
+											<p>Enhance entrepreneurial skills and open doors to global opportunities.</p>
 											<div className="space24" />
-											<Link href="/event-single" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
+											<Link href="https://forms.gle/yEALg7Uybmt5KjXB9" className="readmore">Read More <i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 									</div>
 								</div>
@@ -235,10 +235,10 @@ export default function About() {
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
+												<Link href="https://forms.gle/yEALg7Uybmt5KjXB9"><img src="/assets/img/icons/calender1.svg" alt="" />12 September 2025 - 14 September 2025</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="https://forms.gle/yEALg7Uybmt5KjXB9"><img src="/assets/img/icons/location1.svg" alt="" />GLA University</Link>
 											</li>
 										</ul>
 									</div>

@@ -64,21 +64,6 @@ export default function BrandSlider() {
 				<SwiperSlide className="brand-box">
 					<img src="/assets/img/elements/brand-img3.png" alt="" />
 				</SwiperSlide>
-				<SwiperSlide className="brand-box">
-					<img src="/assets/img/elements/brand-img4.png" alt="" />
-				</SwiperSlide>
-				<SwiperSlide className="brand-box">
-					<img src="/assets/img/elements/brand-img5.png" alt="" />
-				</SwiperSlide>
-				<SwiperSlide className="brand-box">
-					<img src="/assets/img/elements/brand-img6.png" alt="" />
-				</SwiperSlide>
-				<SwiperSlide className="brand-box">
-					<img src="/assets/img/elements/brand-img7.png" alt="" />
-				</SwiperSlide>
-				<SwiperSlide className="brand-box">
-					<img src="/assets/img/elements/brand-img8.png" alt="" />
-				</SwiperSlide>
 			</Swiper>
 		</>
 	)

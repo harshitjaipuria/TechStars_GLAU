@@ -72,52 +72,34 @@ export default function Section4() {
 							<Swiper {...swiperOptions} className="team-slider-area ">
 								<SwiperSlide className="team-widget-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img2.png" alt="" />
+										<img src="/assets/img/all-images/team/team-img1.png" alt="" />
 										<ul>
 											<li>
-												<Link href="/#"><i className="fa-brands fa-facebook-f" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-linkedin-in" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
-											</li>
-											<li>
-												<Link href="/#" className="m-0"><i className="fa-brands fa-youtube" /></Link>
+												<Link href="https://www.linkedin.com/in/rajib-banerjee-6922b99/"><i className="fa-brands fa-linkedin-in" /></Link>
 											</li>
 										</ul>
 									</div>
 									<div className="space20" />
 									<div className="text-area">
-										<Link href="/speakers">Kendra Cremin</Link>
+										<Link href="/speakers">Rajib Banarejee</Link>
 										<div className="space16" />
-										<p>Business Consultant</p>
+										<p>Speaker</p>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="team-widget-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img1.png" alt="" />
-										<ul>
+										<img src="/assets/img/all-images/team/team-img2.png" alt="" />
+										<ul>											
 											<li>
-												<Link href="/#"><i className="fa-brands fa-facebook-f" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-linkedin-in" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
-											</li>
-											<li>
-												<Link href="/#" className="m-0"><i className="fa-brands fa-youtube" /></Link>
+												<Link href="https://www.linkedin.com/in/rahullakhmani/"><i className="fa-brands fa-linkedin-in" /></Link>
 											</li>
 										</ul>
 									</div>
 									<div className="space20" />
 									<div className="text-area">
-										<Link href="/speakers">Dennis Jacobson</Link>
+										<Link href="/speakers">Rahul Lakhmani</Link>
 										<div className="space16" />
-										<p>Finance Consultant</p>
+										<p>Speaker</p>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="team-widget-boxarea">
@@ -125,99 +107,31 @@ export default function Section4() {
 										<img src="/assets/img/all-images/team/team-img3.png" alt="" />
 										<ul>
 											<li>
-												<Link href="/#"><i className="fa-brands fa-facebook-f" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-linkedin-in" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
-											</li>
-											<li>
-												<Link href="/#" className="m-0"><i className="fa-brands fa-youtube" /></Link>
+												<Link href="https://www.linkedin.com/in/himanshusinglaa/"><i className="fa-brands fa-instagram" /></Link>
 											</li>
 										</ul>
 									</div>
 									<div className="space20" />
 									<div className="text-area">
-										<Link href="/speakers">Patricia Wilkinson</Link>
+										<Link href="/speakers">Himanshu Singla</Link>
 										<div className="space16" />
-										<p>HR Consultant</p>
+										<p>Speaker</p>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="team-widget-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img2.png" alt="" />
+										<img src="/assets/img/all-images/team/team-img45.png" alt="" />
 										<ul>
 											<li>
-												<Link href="/#"><i className="fa-brands fa-facebook-f" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-linkedin-in" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
-											</li>
-											<li>
-												<Link href="/#" className="m-0"><i className="fa-brands fa-youtube" /></Link>
+												<Link href="https://www.linkedin.com/in/devansh-s-bhatt-a999481a1/"><i className="fa-brands fa-linkedin-in" /></Link>
 											</li>
 										</ul>
 									</div>
 									<div className="space20" />
 									<div className="text-area">
-										<Link href="/speakers">Kendra Cremin</Link>
+										<Link href="/speakers">Devansh S Bhatt</Link>
 										<div className="space16" />
-										<p>Business Consultant</p>
-									</div>
-								</SwiperSlide>
-								<SwiperSlide className="team-widget-boxarea">
-									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img1.png" alt="" />
-										<ul>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-facebook-f" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-linkedin-in" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
-											</li>
-											<li>
-												<Link href="/#" className="m-0"><i className="fa-brands fa-youtube" /></Link>
-											</li>
-										</ul>
-									</div>
-									<div className="space20" />
-									<div className="text-area">
-										<Link href="/speakers">Dennis Jacobson</Link>
-										<div className="space16" />
-										<p>Finance Consultant</p>
-									</div>
-								</SwiperSlide>
-								<SwiperSlide className="team-widget-boxarea">
-									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img3.png" alt="" />
-										<ul>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-facebook-f" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-linkedin-in" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
-											</li>
-											<li>
-												<Link href="/#" className="m-0"><i className="fa-brands fa-youtube" /></Link>
-											</li>
-										</ul>
-									</div>
-									<div className="space20" />
-									<div className="text-area">
-										<Link href="/speakers">Patricia Wilkinson</Link>
-										<div className="space16" />
-										<p>HR Consultant</p>
+										<p>Speaker</p>
 									</div>
 								</SwiperSlide>
 
