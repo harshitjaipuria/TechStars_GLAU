@@ -80,7 +80,7 @@ const handleAccordion = (key: any) => {
 										<span><i className="fa-solid fa-phone-volume" /></span>
 									</div>
 									<div className="contact-info-text">
-										<Link href="//tel:+3(924)4596512">+3(924)4596512</Link>
+										<Link href="/#">+3(924)4596512</Link>
 									</div>
 								</div>
 								<div className="contact-info-single">
@@ -108,16 +108,16 @@ const handleAccordion = (key: any) => {
 									<div className="social-links-mobile-menu">
 										<ul>
 											<li>
-												<Link href="//#"><i className="fa-brands fa-facebook-f" /></Link>
+												<Link href="/#"><i className="fa-brands fa-facebook-f" /></Link>
 											</li>
 											<li>
-												<Link href="//#"><i className="fa-brands fa-instagram" /></Link>
+												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
 											</li>
 											<li>
-												<Link href="//#"><i className="fa-brands fa-linkedin-in" /></Link>
+												<Link href="/#"><i className="fa-brands fa-linkedin-in" /></Link>
 											</li>
 											<li>
-												<Link href="//#"><i className="fa-brands fa-youtube" /></Link>
+												<Link href="/#"><i className="fa-brands fa-youtube" /></Link>
 											</li>
 										</ul>
 									</div>

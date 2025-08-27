@@ -314,7 +314,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-3">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img1.png" alt="" />
+													<img src="/assets/img/all-images/event/Spaceallotment.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-9">
@@ -329,7 +329,7 @@ export default function Section3() {
 														</li>
 													</ul>
 													<div className="space20" />
-													<Link href="/event-single" className="head">3. Team Space Allotment</Link>
+													<Link href="/#" className="head">3. Team Space Allotment</Link>
 													<div className="space16" />
 													<p>Each team is assigned a dedicated workspace to collaborate, brainstorm, and develop their startup ideas. These spaces provide a focused environment equipped with necessary resources. It marks the beginning of hands-on execution and deep team collaboration.</p>
 													<div className="space32" />
@@ -341,7 +341,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-3">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img1.png" alt="" />
+													<img src="/assets/img/all-images/event/workbegin.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-9">
@@ -368,7 +368,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-3">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img1.png" alt="" />
+													<img src="/assets/img/all-images/event/Speakersession.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-9">
@@ -395,7 +395,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-3">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img1.png" alt="" />
+													<img src="/assets/img/all-images/event/Dinner.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-9">
@@ -422,7 +422,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-3">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img1.png" alt="" />
+													<img src="/assets/img/all-images/event/mentor.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-9">
@@ -449,7 +449,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-3">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img1.png" alt="" />
+													<img src="/assets/img/all-images/event/workshop.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-9">
@@ -476,7 +476,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-3">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img1.png" alt="" />
+													<img src="/assets/img/all-images/event/jamming.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-9">
@@ -505,7 +505,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img1.png" alt="" />
+													<img src="/assets/img/all-images/event/workcontinues.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
@@ -533,7 +533,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img2.png" alt="" />
+													<img src="/assets/img/all-images/event/teabreak.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
@@ -561,7 +561,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img3.png" alt="" />
+													<img src="/assets/img/all-images/event/work2.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
@@ -589,7 +589,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img3.png" alt="" />
+													<img src="/assets/img/all-images/event/Breakfast.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
@@ -617,7 +617,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img3.png" alt="" />
+													<img src="/assets/img/all-images/event/pitching.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
@@ -645,7 +645,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img3.png" alt="" />
+													<img src="/assets/img/all-images/event/award ceremony.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
