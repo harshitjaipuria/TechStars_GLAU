@@ -30,10 +30,10 @@ export default function Footer1() {
 							<div className="link-content">
 								<h3>Quick Links</h3>
 								<ul>
-									<li><Link href="/about">About Us</Link></li>
-									<li><Link href="/event">Event Listing</Link></li>
+									<li><Link href="https://forms.gle/yEALg7Uybmt5KjXB9">About Us</Link></li>
+									<li><Link href="https://forms.gle/yEALg7Uybmt5KjXB9">Event Listing</Link></li>
 									<li><Link href="https://forms.gle/yEALg7Uybmt5KjXB9">Get Tickets</Link></li>
-									<li><Link href="/contact">Contact Us</Link></li>
+									<li><Link href="https://forms.gle/yEALg7Uybmt5KjXB9">Contact Us</Link></li>
 								</ul>
 							</div>
 						</div>
