@@ -287,7 +287,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-3">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img1.png" alt="" />
+													<img src="/assets/img/all-images/event/Review.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-9">
