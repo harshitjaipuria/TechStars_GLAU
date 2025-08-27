@@ -19,10 +19,6 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 											<li>
 												<Link href="/speakers">Speakers <i className="" /></Link>
 											</li>
-											<li>
-												<Link href="/event">Schedule <i className="" /></Link>
-
-											</li>
 											<li><Link href="/organizing-committee">Organizers</Link></li>
 										</ul>
 									</div>
