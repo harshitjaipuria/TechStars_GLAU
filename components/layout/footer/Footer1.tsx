@@ -42,16 +42,16 @@ export default function Footer1() {
 								<h3>Contact Us</h3>
 								<ul>
 									<li>
-										<Link href="/tel:+11234567890"><img src="/assets/img/icons/phn1.svg" alt="" />+91 8076527770</Link>
+										<Link href="https://wa.link/7cuzbs"><img src="/assets/img/icons/phn1.svg" alt="" />+91 8076527770</Link>
 									</li>
 									<li>
-										<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />GLA University, Mathura</Link>
+										<Link href="/https://share.google/waWlaf9fHaz3WZsol"><img src="/assets/img/icons/location1.svg" alt="" />GLA University, Mathura</Link>
 									</li>
 									<li>
-										<Link href="/mailto:eventifyevent@gmail.com"><img src="/assets/img/icons/mail1.svg" alt="" />techstarsglau@gla.ac.in</Link>
+										<Link href="/mailto:techstarsglau@gla.ac.in"><img src="/assets/img/icons/mail1.svg" alt="" />techstarsglau@gla.ac.in</Link>
 									</li>
 									<li>
-										<Link href="/#"> <img src="/assets/img/icons/world1.svg" alt="" />https://www.gla.ac.in/ecell/</Link>
+										<Link href="https://www.gla.ac.in/ecell/"> <img src="/assets/img/icons/world1.svg" alt="" />E cell Website</Link>
 									</li>
 								</ul>
 							</div>
