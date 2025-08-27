@@ -147,7 +147,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img3.png" alt="" />
+													<img src="/assets/img/all-images/event/Ice Breaking Session.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
@@ -162,7 +162,7 @@ export default function Section3() {
 														</li>
 													</ul>
 													<div className="space20" />
-													<Link href="/event-single" className="head">4. Ice Breaking Session</Link>
+													<Link href="https://forms.gle/yEALg7Uybmt5KjXB9" className="head">4. Ice Breaking Session</Link>
 													<div className="space16" />
 													<p>Fun and interactive activities are conducted to help participants get comfortable and acquainted with one another. These light-hearted exercises encourage communication, teamwork, and idea sharing. The session sets a friendly and open tone for the rest of the event.</p>
 													<div className="space32" />
@@ -175,7 +175,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img3.png" alt="" />
+													<img src="/assets/img/all-images/event/2123.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
@@ -190,7 +190,7 @@ export default function Section3() {
 														</li>
 													</ul>
 													<div className="space20" />
-													<Link href="/event-single" className="head">5. Idea Bank Discussion</Link>
+													<Link href="/#" className="head">5. Idea Bank Discussion</Link>
 													<div className="space16" />
 													<p>Participants share and discuss their startup ideas in an open forum, fostering creativity and collaboration. Each idea is briefly pitched, explored, and refined with feedback from peers and mentors. This session helps shape the foundation for team formation and project development.</p>
 													<div className="space32" />
@@ -203,7 +203,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img3.png" alt="" />
+													<img src="/assets/img/all-images/event/voting.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
@@ -218,7 +218,7 @@ export default function Section3() {
 														</li>
 													</ul>
 													<div className="space20" />
-													<Link href="/event-single" className="head">6. Voting</Link>
+													<Link href="/#" className="head">6. Voting</Link>
 													<div className="space16" />
 													<p>After all ideas are presented, participants vote for the ones they find most promising and impactful. The voting process helps identify the top ideas that will move forward into team formation. It ensures that the most compelling concepts gain the momentum they deserve.</p>
 													<div className="space32" />
@@ -231,7 +231,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img3.png" alt="" />
+													<img src="/assets/img/all-images/event/Team.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
@@ -246,7 +246,7 @@ export default function Section3() {
 														</li>
 													</ul>
 													<div className="space20" />
-													<Link href="/event-single" className="head">7. Team Formation</Link>
+													<Link href="/#" className="head">7. Team Formation</Link>
 													<div className="space16" />
 													<p>Based on the selected ideas, participants form teams by aligning their interests and skills with chosen projects. This collaborative step brings together diverse talents to work on a shared vision. Teams officially begin their Startup Weekend journey, ready to turn ideas into action.</p>
 													<div className="space32" />
