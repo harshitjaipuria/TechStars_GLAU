@@ -196,14 +196,6 @@ export default function OrganizingCommittee() {
 			instagram: "https://www.instagram.com/"
 		},
 		{
-			id: 25,
-			name: "Kishlay Kumar",
-			position: "Team Data",
-			image: "/assets/council/23.png",
-			linkedin: "https://www.linkedin.com/in/",
-			instagram: "https://www.instagram.com/"
-		},
-		{
 			id: 26,
 			name: "Krish Choudhary",
 			position: "Team Operations",
@@ -218,14 +210,6 @@ export default function OrganizingCommittee() {
 			image: "/assets/council/26.png",
 			linkedin: "https://www.linkedin.com/in/",
 			instagram: "https://www.instagram.com/"
-		},
-		{
-			id: 28,
-			name: "Arohi Mishra",
-			position: "Team Marketing",
-			image: "/assets/council/28.png",
-			linkedin: "https://www.linkedin.com/in/harsh-raj-085064266/",
-			instagram: "https://www.instagram.com/_.harsh._raj/"
 		},
 
 

@@ -75,12 +75,12 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href="https://www.linkedin.com/in/krishna-mittal/"><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Krishna Mittal</p>
 										<div className="space12" />
-										<Link href="/memories">Organizer</Link>
+										<Link href="https://www.linkedin.com/in/krishna-mittal/">Organizer</Link>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
@@ -90,12 +90,12 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href="https://www.linkedin.com/in/sajal-gupta31/"><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Sajal Gupta</p>
 										<div className="space12" />
-										<Link href="/memories">Co Organizer</Link>
+										<Link href="">Co Organizer</Link>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
@@ -105,12 +105,12 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Rishi Prakash</p>
 										<div className="space12" />
-										<Link href="/memories">Ambassador</Link>
+										<Link href="">Ambassador</Link>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
@@ -120,12 +120,12 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Somya Agrawal</p>
 										<div className="space12" />
-										<Link href="/memories">Curator</Link>
+										<Link href="">Curator</Link>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
@@ -135,12 +135,12 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Abhay Dwivedi</p>
 										<div className="space12" />
-										<Link href="/memories">Treasurer</Link>
+										<Link href="">Treasurer</Link>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
@@ -150,12 +150,12 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Tanishq Vashishtha</p>
 										<div className="space12" />
-										<Link href="/memories">Delligence Incharge</Link>
+										<Link href="">Delligence Incharge</Link>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
@@ -165,12 +165,12 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Radha Goel</p>
 										<div className="space12" />
-										<Link href="/memories">Hospitality Head</Link>
+										<Link href="">Hospitality Head</Link>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
@@ -180,7 +180,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Ansh Tomar</p>
@@ -195,7 +195,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Aman Chandra</p>
@@ -210,7 +210,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Harshit Jaipuria</p>
@@ -225,7 +225,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Abhinav Saxena</p>
@@ -240,7 +240,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Tarun Sharma</p>
@@ -255,7 +255,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Nancy Paul</p>
@@ -270,7 +270,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Samarth Singh</p>
@@ -285,7 +285,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Sarthak Singh</p>
@@ -300,7 +300,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Aryan Singh</p>
@@ -315,7 +315,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Harsh Raj</p>
@@ -330,7 +330,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Anuj Sengar</p>
@@ -345,7 +345,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Asmit Jain</p>
@@ -360,7 +360,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Krishna Sinsinwar</p>
@@ -375,7 +375,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Radhika Agrawal</p>
@@ -390,7 +390,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Bhoomika Agrawal</p>
@@ -405,7 +405,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Bhoomi Bansal</p>
@@ -420,7 +420,7 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Shivendra Kumar</p>
@@ -430,27 +430,12 @@ export default function Section6() {
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/council homepage/23.png" alt="" />
-									</div>
-									<div className="content-area">
-										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
-										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
-										</div>
-										<div className="space18" />
-										<p>Kislay Kumar</p>
-										<div className="space12" />
-										<Link href="/organizing-committee">Team Data</Link>
-									</div>
-								</SwiperSlide>
-								<SwiperSlide className="memory-boxarea">
-									<div className="img1 image-anime">
 										<img src="/assets/council homepage/25.png" alt="" />
 									</div>
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Krish Choudhary</p>
@@ -465,27 +450,12 @@ export default function Section6() {
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
 										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
 										<p>Aditya Yadav</p>
 										<div className="space12" />
 										<Link href="/organizing-committee">Delligence Incharge</Link>
-									</div>
-								</SwiperSlide>
-								<SwiperSlide className="memory-boxarea">
-									<div className="img1 image-anime">
-										<img src="/assets/council homepage/28.png" alt="" />
-									</div>
-									<div className="content-area">
-										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
-										<div className="arrow">
-											<Link href="/memories"><i className="fa-solid fa-arrow-right" /></Link>
-										</div>
-										<div className="space18" />
-										<p>Arohi Mishra</p>
-										<div className="space12" />
-										<Link href="/organizing-committee">Team Marketing</Link>
 									</div>
 								</SwiperSlide>
 							</Swiper>

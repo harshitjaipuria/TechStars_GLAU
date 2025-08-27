@@ -614,7 +614,7 @@ img {
 	left: 50%;
 	top: 50%;
 	background-color: rgba(255, 255, 255, 0.3);
-	transform: translate(-50%, -50%) rotate(-45deg);
+	transform: translate(-50%, -50%);
 	z-index: 1;
 }
 
@@ -26482,10 +26482,6 @@ html {
 	border-radius: 8px;
 }
 
-.memory1-section-area .memory-slider-area .memory-boxarea:hover .img1 img {
-	transform: scale(1.1) rotate(-4deg);
-	transition: all 0.4s;
-}
 
 .memory1-section-area .memory-slider-area .memory-boxarea:hover .content-area {
 	bottom: 20px;
