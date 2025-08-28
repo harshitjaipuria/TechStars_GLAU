@@ -51,7 +51,7 @@ export default function Footer1() {
 										<Link href="/mailto:techstarsglau@gla.ac.in"><img src="/assets/img/icons/mail1.svg" alt="" />techstarsglau@gla.ac.in</Link>
 									</li>
 									<li>
-										<Link href="https://www.gla.ac.in/ecell/"> <img src="/assets/img/icons/world1.svg" alt="" />E cell Website</Link>
+										<Link href="http://ecellgla.com/"> <img src="/assets/img/icons/world1.svg" alt="" />E cell Website</Link>
 									</li>
 								</ul>
 							</div>
