@@ -23,6 +23,8 @@ export default function AddClassBody() {
 				'homepage10-body'
 			)
 
+
+
 			// Map pathname to corresponding class
 			const classMap: { [key: string]: string } = {
 				'/index2': 'homepage2-body',
@@ -39,7 +41,11 @@ export default function AddClassBody() {
 			// Add class based on pathname or default
 			const className = classMap[pathname || ''] || 'homepage1-body'
 			bodyElement.classList.add(className)
+		
+		
 		}
+
+
 
 		// Scroll to the top of the page with a slight delay
 		setTimeout(() => {
