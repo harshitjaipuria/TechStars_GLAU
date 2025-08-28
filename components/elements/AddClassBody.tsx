@@ -41,10 +41,7 @@ export default function AddClassBody() {
 			// Add class based on pathname or default
 			const className = classMap[pathname || ''] || 'homepage1-body'
 			bodyElement.classList.add(className)
-		
-		
 		}
-
 
 
 		// Scroll to the top of the page with a slight delay
