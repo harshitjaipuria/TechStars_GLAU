@@ -36,42 +36,12 @@ const handleAccordion = (key: any) => {
 				<div className="mobile-nav mobile-nav1">
 					<ul className="mobile-nav-list nav-list1">
 						<li className="hash-has-sub"><Link href="/about" className="hash-nav">About Event</Link></li>
-						<li className="has-sub hash-has-sub"><span className={`submenu-button ${isAccordion  == 2 ? "submenu-opened" : ""}`}onClick={() => handleAccordion (2)}><em /></span>
-							<Link href="/features" className="hash-nav">Speakers</Link>
-							<ul className={`sub-menu ${isAccordion  == 2 ? "open-sub" : ""}`} style={{ display: `${isAccordion  == 2 ? "block" : "none"}` }}>
-								<li className="hash-has-sub"><Link href="/speakers" className="hash-nav">Speakers</Link></li>
-								<li className="hash-has-sub"><Link href="/speakers-single" className="hash-nav">Speakers Details</Link></li>
-							</ul>
-						</li>
-						<li className="has-sub hash-has-sub"><span className={`submenu-button ${isAccordion  == 3 ? "submenu-opened" : ""}`}onClick={() => handleAccordion (3)}><em /></span>
-							<Link href="/features" className="hash-nav">Schedule</Link>
-							<ul className={`sub-menu ${isAccordion  == 3 ? "open-sub" : ""}`} style={{ display: `${isAccordion  == 3 ? "block" : "none"}` }}>
-								<li className="hash-has-sub"><Link href="/event" className="hash-nav">Our Event</Link></li>
-								<li className="hash-has-sub"><Link href="/event-schedule" className="hash-nav">Event Schedule</Link></li>
-								<li className="hash-has-sub"><Link href="/event-single" className="hash-nav">Event Details</Link></li>
-							</ul>
-						</li>
-						<li className="has-sub hash-has-sub"><span className={`submenu-button ${isAccordion  == 4 ? "submenu-opened" : ""}`}onClick={() => handleAccordion (4)}><em /></span>
-							<Link href="/#" className="hash-nav">Blogs</Link>
-							<ul className={`sub-menu ${isAccordion  == 4 ? "open-sub" : ""}`} style={{ display: `${isAccordion  == 4 ? "block" : "none"}` }}>
-								<li className="hash-has-sub"><Link href="/blog" className="hash-nav">Our Blog</Link></li>
-								<li className="hash-has-sub"><Link href="/blog-single" className="hash-nav">Blog Details</Link></li>
-							</ul>
-						</li>
-						<li className="has-sub hash-has-sub"><span className={`submenu-button ${isAccordion  == 5 ? "submenu-opened" : ""}`}onClick={() => handleAccordion (5)}><em /></span>
-							<Link href="/#" className="hash-nav">Pages</Link>
-							<ul className={`sub-menu ${isAccordion  == 5 ? "open-sub" : ""}`} style={{ display: `${isAccordion  == 5 ? "block" : "none"}` }}>
-								<li className="hash-has-sub"><Link href="/memories" className="hash-nav">Our Memories</Link></li>
-								<li className="hash-has-sub"><Link href="/pricing-plan" className="hash-nav">Pricing Plan</Link></li>
-								<li className="hash-has-sub"><Link href="/faq" className="hash-nav">FAQ,s</Link></li>
-								<li className="hash-has-sub"><Link href="/contact" className="hash-nav">Contact Us</Link></li>
-							</ul>
-						</li>
-						<li className="hash-has-sub"><Link href="/contact" className="hash-nav">Contact Us</Link></li>
+						<li className="hash-has-sub"><Link href="/speakers" className="hash-nav">Speakers</Link></li>
+						<li className="hash-has-sub"><Link href="/organizing-committee" className="hash-nav">Organizing Committee</Link></li>
 					</ul>
 
 					<div className="allmobilesection">
-						<Link href="//contact" className="vl-btn1">Contact Now</Link>
+						<Link href="https://wa.link/7cuzbs" className="vl-btn1">Contact Now</Link>
 						<div className="single-footer">
 							<h3>Contact Info</h3>
 							<div className="footer1-contact-info">
@@ -80,7 +50,7 @@ const handleAccordion = (key: any) => {
 										<span><i className="fa-solid fa-phone-volume" /></span>
 									</div>
 									<div className="contact-info-text">
-										<Link href="/#">+3(924)4596512</Link>
+										<Link href="https://wa.link/7cuzbs">+91 8076527770</Link>
 									</div>
 								</div>
 								<div className="contact-info-single">
@@ -88,7 +58,7 @@ const handleAccordion = (key: any) => {
 										<span><i className="fa-solid fa-envelope" /></span>
 									</div>
 									<div className="contact-info-text">
-										<Link href="//mailto:info@example.com">info@example.com</Link>
+										<Link href="//mailto:techstarsglau@gla.ac.in">techstarsglau@gla.ac.in</Link>
 									</div>
 								</div>
 								<div className="single-footer">
@@ -98,8 +68,8 @@ const handleAccordion = (key: any) => {
 											<span><i className="fa-solid fa-location-dot" /></span>
 										</div>
 										<div className="contact-info-text">
-											<Link href="//mailto:info@example.com">55 East Birchwood Ave.Brooklyn, <br />
-												New York 11201,United States</Link>
+											<Link href="https://share.google/b0GFpxM5VbKi3l8xx">GLA University, Mathura<br />
+												Uttar Pradesh, 281406</Link>
 										</div>
 									</div>
 								</div>
@@ -108,16 +78,13 @@ const handleAccordion = (key: any) => {
 									<div className="social-links-mobile-menu">
 										<ul>
 											<li>
-												<Link href="/#"><i className="fa-brands fa-facebook-f" /></Link>
+												<Link href="https://www.facebook.com/ecellglau/"><i className="fa-brands fa-facebook-f" /></Link>
 											</li>
 											<li>
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
+												<Link href="https://www.instagram.com/techstarsglau/"><i className="fa-brands fa-instagram" /></Link>
 											</li>
 											<li>
-												<Link href="/#"><i className="fa-brands fa-linkedin-in" /></Link>
-											</li>
-											<li>
-												<Link href="/#"><i className="fa-brands fa-youtube" /></Link>
+												<Link href="https://www.linkedin.com/company/ecellglau/"><i className="fa-brands fa-linkedin-in" /></Link>
 											</li>
 										</ul>
 									</div>
