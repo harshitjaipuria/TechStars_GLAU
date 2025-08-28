@@ -145,7 +145,7 @@ export default function Section6() {
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/council homepage/27.png" alt="" />
+										<img src="/assets/council homepage/24.png" alt="" />
 									</div>
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
@@ -156,6 +156,21 @@ export default function Section6() {
 										<p>Tanishq Vashishtha</p>
 										<div className="space12" />
 										<Link href="">Delligence Incharge</Link>
+									</div>
+								</SwiperSlide>
+								<SwiperSlide className="memory-boxarea">
+									<div className="img1 image-anime">
+										<img src="/assets/council homepage/23.png" alt="" />
+									</div>
+									<div className="content-area">
+										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
+										<div className="arrow">
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
+										</div>
+										<div className="space18" />
+										<p>Aditya Yadav</p>
+										<div className="space12" />
+										<Link href="/organizing-committee">Delligence Incharge</Link>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
@@ -175,7 +190,7 @@ export default function Section6() {
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/council homepage/24.png" alt="" />
+										<img src="/assets/council homepage/21.png" alt="" />
 									</div>
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
@@ -186,6 +201,21 @@ export default function Section6() {
 										<p>Ansh Tomar</p>
 										<div className="space12" />
 										<Link href="/organizing-committee">Operations Co-Head</Link>
+									</div>
+								</SwiperSlide>
+								<SwiperSlide className="memory-boxarea">
+									<div className="img1 image-anime">
+										<img src="/assets/council homepage/19.png" alt="" />
+									</div>
+									<div className="content-area">
+										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
+										<div className="arrow">
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
+										</div>
+										<div className="space18" />
+										<p>Shivendra Kumar</p>
+										<div className="space12" />
+										<Link href="/organizing-committee">Design Co-Head</Link>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
@@ -250,7 +280,7 @@ export default function Section6() {
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/council homepage/22.png" alt="" />
+										<img src="/assets/council homepage/20.png" alt="" />
 									</div>
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
@@ -378,21 +408,6 @@ export default function Section6() {
 											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
 										</div>
 										<div className="space18" />
-										<p>Radhika Agrawal</p>
-										<div className="space12" />
-										<Link href="/organizing-committee">Team Hospitality</Link>
-									</div>
-								</SwiperSlide>
-								<SwiperSlide className="memory-boxarea">
-									<div className="img1 image-anime">
-										<img src="/assets/council homepage/19.png" alt="" />
-									</div>
-									<div className="content-area">
-										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
-										<div className="arrow">
-											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
-										</div>
-										<div className="space18" />
 										<p>Bhoomika Agrawal</p>
 										<div className="space12" />
 										<Link href="/organizing-committee">Team Hospitality</Link>
@@ -400,37 +415,7 @@ export default function Section6() {
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/council homepage/20.png" alt="" />
-									</div>
-									<div className="content-area">
-										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
-										<div className="arrow">
-											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
-										</div>
-										<div className="space18" />
-										<p>Bhoomi Bansal</p>
-										<div className="space12" />
-										<Link href="/organizing-committee">Team Media & Publicity</Link>
-									</div>
-								</SwiperSlide>
-								<SwiperSlide className="memory-boxarea">
-									<div className="img1 image-anime">
-										<img src="/assets/council homepage/21.png" alt="" />
-									</div>
-									<div className="content-area">
-										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
-										<div className="arrow">
-											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
-										</div>
-										<div className="space18" />
-										<p>Shivendra Kumar</p>
-										<div className="space12" />
-										<Link href="/organizing-committee">Design Co-Head</Link>
-									</div>
-								</SwiperSlide>
-								<SwiperSlide className="memory-boxarea">
-									<div className="img1 image-anime">
-										<img src="/assets/council homepage/25.png" alt="" />
+										<img src="/assets/council homepage/22.png" alt="" />
 									</div>
 									<div className="content-area">
 										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
@@ -443,21 +428,7 @@ export default function Section6() {
 										<Link href="/organizing-committee">Team Operations</Link>
 									</div>
 								</SwiperSlide>
-								<SwiperSlide className="memory-boxarea">
-									<div className="img1 image-anime">
-										<img src="/assets/council homepage/26.png" alt="" />
-									</div>
-									<div className="content-area">
-										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
-										<div className="arrow">
-											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
-										</div>
-										<div className="space18" />
-										<p>Aditya Yadav</p>
-										<div className="space12" />
-										<Link href="/organizing-committee">Delligence Incharge</Link>
-									</div>
-								</SwiperSlide>
+
 							</Swiper>
 													
 

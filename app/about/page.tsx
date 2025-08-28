@@ -102,7 +102,7 @@ export default function About() {
 							<div className="row">
 								<div className="col-lg-5 m-auto">
 									<div className="brand-header heading4 space-margin60 text-center">
-										<h3>Organizers & Sponsers</h3>
+										<h2>Organizers & Sponsers</h2>
 									</div>
 								</div>
 							</div>
