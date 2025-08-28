@@ -3,20 +3,14 @@ import Link from 'next/link'
 import { Autoplay, Navigation, Pagination } from "swiper/modules"
 import { Swiper, SwiperSlide } from "swiper/react"
 const swiperOptions = {
-	modules: [Autoplay, Pagination, Navigation],
+	modules: [Autoplay, Pagination],
 	slidesPerView: 3,
 	spaceBetween: 30,
 	autoplay: {
-		delay: 1500,
+		delay: 1800,
 		disableOnInteraction: false,
 	},
 	loop: true,
-
-	// Navigation
-	navigation: {
-		nextEl: '.owl-next',
-		prevEl: '.owl-prev',
-	},
 
 	// Pagination
 	pagination: {
@@ -60,10 +54,10 @@ export default function Section4() {
 			<div className="team1-section-area sp1">
 				<div className="container">
 					<div className="row">
-						<div className="col-lg-6">
+						<div className="col-lg-12 text-center">
 							<div className="team-header space-margin60 heading2">
 								<div className="space16" />
-								<h2 className="text-anime-style-3">Our's Judges and Mentors</h2>
+								<h2 className="text-anime-style-3">Our Judges and Mentors</h2>
 							</div>
 						</div>
 					</div>
@@ -136,15 +130,6 @@ export default function Section4() {
 								</SwiperSlide>
 
 							</Swiper>
-
-							<div className="owl-nav">
-								<button type="button" role="presentation" className="owl-prev h1p">
-									<i className="fa-solid fa-angle-left" />
-								</button>
-								<button type="button" role="presentation" className="owl-next h1n">
-									<i className="fa-solid fa-angle-right" />
-								</button>
-							</div>
 						</div>
 					</div>
 				</div>

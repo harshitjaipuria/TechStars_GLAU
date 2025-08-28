@@ -117,7 +117,7 @@ export default function Footer1() {
 					<div className="row">
 						<div className="col-lg-12">
 							<div className="copyright">
-								<p>© Copyright {new Date().getFullYear()} - E Cell GLAU. All Right Reserved</p>
+								<p>© Copyright {new Date().getFullYear()} - E Cell GLAU. All Right Reserved | <Link href="https://www.linkedin.com/in/harshit-jaipuria/" style={{ color: 'inherit', textDecoration: 'none' }}>Designed & Developed by Web Dev & IT Team</Link></p>
 							</div>
 						</div>
 					</div>
