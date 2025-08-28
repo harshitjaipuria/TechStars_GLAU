@@ -66,66 +66,94 @@ export default function Section4() {
 							<Swiper {...swiperOptions} className="team-slider-area ">
 								<SwiperSlide className="team-widget-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img1.png" alt="" />
+										<img src="/assets/img/all-images/team/AKG.png" alt="" />
 										<ul>
 											<li>
-												<Link href="https://www.linkedin.com/in/rajib-banerjee-6922b99/"><i className="fa-brands fa-linkedin-in" /></Link>
+												<Link href="https://www.linkedin.com/in/anoop-gupta-61236717/"><i className="fa-brands fa-linkedin-in" /></Link>
+											</li>
+											<li>
+												<Link href="https://www.linkedin.com/in/anoop-gupta-61236717/"><i className="fa-brands fa-facebook-f" /></Link>
 											</li>
 										</ul>
 									</div>
 									<div className="space20" />
 									<div className="text-area">
-										<Link href="/speakers">Rajib Banarejee</Link>
+										<Link href="/speakers">Dr. Anoop Kumar Gupta </Link>
 										<div className="space16" />
-										<p>Speaker</p>
+										<p>Vice Chancellor | Chief Patron</p>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="team-widget-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img2.png" alt="" />
+										<img src="/assets/img/all-images/team/PJ.png" alt="" />
 										<ul>											
 											<li>
-												<Link href="https://www.linkedin.com/in/rahullakhmani/"><i className="fa-brands fa-linkedin-in" /></Link>
+												<Link href="https://www.linkedin.com/in/dr-pramod-joshi-3774253/"><i className="fa-brands fa-linkedin-in" /></Link>
+											</li>
+											<li>
+												<Link href="https://www.facebook.com/pramod.k.joshi.12"><i className="fa-brands fa-facebook-f" /></Link>
 											</li>
 										</ul>
 									</div>
 									<div className="space20" />
 									<div className="text-area">
-										<Link href="/speakers">Rahul Lakhmani</Link>
+										<Link href="/speakers">Dr. Pramod Joshi</Link>
 										<div className="space16" />
-										<p>Speaker</p>
+										<p>External Mentor</p>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="team-widget-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img3.png" alt="" />
+										<img src="/assets/img/all-images/team/DS.png" alt="" />
 										<ul>
 											<li>
-												<Link href="https://www.linkedin.com/in/himanshusinglaa/"><i className="fa-brands fa-instagram" /></Link>
+												<Link href="https://www.linkedin.com/in/deepak-sharma-51b5ab211/"><i className="fa-brands fa-linkedin-in" /></Link>
+											</li>
+											<li>
+												<Link href="https://www.linkedin.com/in/deepak-sharma-51b5ab211/"><i className="fa-brands fa-instagram" /></Link>
 											</li>
 										</ul>
 									</div>
 									<div className="space20" />
 									<div className="text-area">
-										<Link href="/speakers">Himanshu Singla</Link>
+										<Link href="/speakers">Deepak Sharma</Link>
 										<div className="space16" />
-										<p>Speaker</p>
+										<p>Mentor</p>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="team-widget-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img45.png" alt="" />
+										<img src="/assets/img/all-images/team/AG.png" alt="" />
 										<ul>
 											<li>
-												<Link href="https://www.linkedin.com/in/devansh-s-bhatt-a999481a1/"><i className="fa-brands fa-linkedin-in" /></Link>
+												<Link href="https://www.linkedin.com/in/abhishek-gautam-83428a198/"><i className="fa-brands fa-linkedin-in" /></Link>
+											</li>
+											<li>
+												<Link href="https://www.instagram.com/abhishek_prat1/"><i className="fa-brands fa-instagram" /></Link>
 											</li>
 										</ul>
 									</div>
 									<div className="space20" />
 									<div className="text-area">
-										<Link href="/speakers">Devansh S Bhatt</Link>
+										<Link href="/speakers">Abhishek Gautam</Link>
 										<div className="space16" />
-										<p>Speaker</p>
+										<p>Mentor</p>
+									</div>
+								</SwiperSlide>
+								<SwiperSlide className="team-widget-boxarea">
+									<div className="img1 image-anime">
+										<img src="/assets/img/all-images/team/JS.png" alt="" />
+										<ul>
+											<li>
+												<Link href="https://www.linkedin.com/in/jitendra-sharma-592747170/"><i className="fa-brands fa-linkedin-in" /></Link>
+											</li>
+										</ul>
+									</div>
+									<div className="space20" />
+									<div className="text-area">
+										<Link href="/speakers">Jitendra Sharma</Link>
+										<div className="space16" />
+										<p>Mentor</p>
 									</div>
 								</SwiperSlide>
 
