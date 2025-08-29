@@ -86,14 +86,6 @@ export default function Section4() {
 								<SwiperSlide className="team-widget-boxarea">
 									<div className="img1 image-anime">
 										<img src="/assets/img/all-images/team/VA.png" alt="" />
-										<ul>
-											<li>
-												<Link href="https://www.linkedin.com/in/anoop-gupta-61236717/"><i className="fa-brands fa-linkedin-in" /></Link>
-											</li>
-											<li>
-												<Link href="https://www.linkedin.com/in/anoop-gupta-61236717/"><i className="fa-brands fa-facebook-f" /></Link>
-											</li>
-										</ul>
 									</div>
 									<div className="space20" />
 									<div className="text-area">
