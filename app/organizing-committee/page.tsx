@@ -192,8 +192,8 @@ export default function OrganizingCommittee() {
 			name: "Bhoomika Agrawal",
 			position: "Hospitality Team",
 			image: "/assets/council/19.png",
-			linkedin: "/#",
-			instagram: "/#"
+			linkedin: "https://www.linkedin.com/in/bhoomika-agarwal-981196326/",
+			instagram: "https://www.instagram.com/pvt_bhoomika23/"
 		},
 
 
