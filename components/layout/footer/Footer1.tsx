@@ -64,49 +64,31 @@ export default function Footer1() {
 									<div className="col-lg-4 col-md-4 col-4">
 										<div className="img1">
 											<img src="/assets/img/all-images/footer/footer-img1.png" alt="" />
-											<div className="icons">
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
-											</div>
 										</div>
 									</div>
 									<div className="col-lg-4 col-md-4 col-4">
 										<div className="img1">
 											<img src="/assets/img/all-images/footer/footer-img2.png" alt="" />
-											<div className="icons">
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
-											</div>
 										</div>
 									</div>
 									<div className="col-lg-4 col-md-4 col-4">
 										<div className="img1">
 											<img src="/assets/img/all-images/footer/footer-img3.png" alt="" />
-											<div className="icons">
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
-											</div>
 										</div>
 									</div>
 									<div className="col-lg-4 col-md-4 col-4">
 										<div className="img1">
 											<img src="/assets/img/all-images/footer/footer-img4.png" alt="" />
-											<div className="icons">
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
-											</div>
 										</div>
 									</div>
 									<div className="col-lg-4 col-md-4 col-4">
 										<div className="img1">
 											<img src="/assets/img/all-images/footer/footer-img5.png" alt="" />
-											<div className="icons">
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
-											</div>
 										</div>
 									</div>
 									<div className="col-lg-4 col-md-4 col-4">
 										<div className="img1">
 											<img src="/assets/img/all-images/footer/footer-img6.png" alt="" />
-											<div className="icons">
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
-											</div>
 										</div>
 									</div>
 								</div>
