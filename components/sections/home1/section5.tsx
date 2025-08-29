@@ -115,25 +115,6 @@ export default function Section4() {
 								</SwiperSlide>
 								<SwiperSlide className="team-widget-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/RA.png" alt="" />
-										<ul>
-											<li>
-												<Link href="https://www.linkedin.com/in/rahul-arora-040b1b193/"><i className="fa-brands fa-linkedin-in" /></Link>
-											</li>
-											<li>
-												<Link href="https://www.instagram.com/rahularora0162"><i className="fa-brands fa-instagram" /></Link>
-											</li>
-										</ul>
-									</div>
-									<div className="space20" />
-									<div className="text-area">
-										<Link href="/speakers">Rahul Arora</Link>
-										<div className="space16" />
-										<p>Mentor</p>
-									</div>
-								</SwiperSlide>
-								<SwiperSlide className="team-widget-boxarea">
-									<div className="img1 image-anime">
 										<img src="/assets/img/all-images/team/AG.png" alt="" />
 										<ul>
 											<li>
@@ -163,6 +144,25 @@ export default function Section4() {
 									<div className="space20" />
 									<div className="text-area">
 										<Link href="/speakers">Jitendra Sharma</Link>
+										<div className="space16" />
+										<p>Mentor</p>
+									</div>
+								</SwiperSlide>
+								<SwiperSlide className="team-widget-boxarea">
+									<div className="img1 image-anime">
+										<img src="/assets/img/all-images/team/RA.png" alt="" />
+										<ul>
+											<li>
+												<Link href="https://www.linkedin.com/in/rahul-arora-040b1b193/"><i className="fa-brands fa-linkedin-in" /></Link>
+											</li>
+											<li>
+												<Link href="https://www.instagram.com/rahularora0162"><i className="fa-brands fa-instagram" /></Link>
+											</li>
+										</ul>
+									</div>
+									<div className="space20" />
+									<div className="text-area">
+										<Link href="/speakers">Rahul Arora</Link>
 										<div className="space16" />
 										<p>Mentor</p>
 									</div>
