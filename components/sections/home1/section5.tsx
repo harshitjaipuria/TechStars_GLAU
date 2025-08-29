@@ -91,7 +91,7 @@ export default function Section4() {
 									<div className="text-area">
 										<Link href="/speakers">Dr. Vivek Agrawal</Link>
 										<div className="space16" />
-										<p>Hon’ble CFO Dr.Vivek Aggarwal GLAU</p>
+										<p>Hon’ble CFO GLA University</p>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="team-widget-boxarea">
