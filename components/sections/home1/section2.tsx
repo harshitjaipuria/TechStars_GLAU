@@ -55,7 +55,7 @@ export default function Section2() {
 									<div className="text">
 										<Link href="/#">Start something great</Link>
 										<div className="space12" />
-										<p>Techstars Startup Weekend is designed to get you going.Fast. Your local organizers will set up the ideal environment for you to be successful and learn as much as possible in just 72 hours.</p>
+										<p>Techstars Startup Weekend is designed to get you going.Fast. Your local organizers will set up the ideal environment for you to be successful and learn as much as possible in just 54 hours.</p>
 									</div>
 								</div>
 								<div className="space32" />

@@ -430,7 +430,7 @@ export default function Section3() {
 													<ul>
 														<li>
 															<Link href="/#"><img src="/assets/img/icons/clock1.svg" alt="" /> 09:00
-																PM -10:00 PM <span> | </span></Link>
+																PM -11:00 PM <span> | </span></Link>
 														</li>
 														<li>
 															<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" /> GLA University, Mathura </Link>
@@ -440,33 +440,6 @@ export default function Section3() {
 													<Link href="/event-single" className="head">7. Mentor Session</Link>
 													<div className="space16" />
 													<p>Experienced mentors interact with each team to provide personalized feedback, guidance, and strategic advice. They help refine ideas, troubleshoot challenges, and improve execution plans. This session plays a crucial role in strengthening the viability of each startup project.</p>
-													<div className="space32" />
-												</div>
-											</div>
-										</div>
-									</div>
-									<div className="tabs-widget-boxarea">
-										<div className="row align-items-center">
-											<div className="col-lg-3">
-												<div className="img1">
-													<img src="/assets/img/all-images/event/workshop.png" alt="" />
-												</div>
-											</div>
-											<div className="col-lg-9">
-												<div className="content-area">
-													<ul>
-														<li>
-															<Link href="/#"><img src="/assets/img/icons/clock1.svg" alt="" /> 10:00
-																PM -11:00 PM <span> | </span></Link>
-														</li>
-														<li>
-															<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" /> GLA University, Mathura </Link>
-														</li>
-													</ul>
-													<div className="space20" />
-													<Link href="/event-single" className="head">8. CSED Workshop</Link>
-													<div className="space16" />
-													<p>A hands-on workshop conducted by CSED focuses on enhancing entrepreneurial and technical skills among participants. It includes practical exercises, tools, and frameworks essential for startup success. The session empowers teams with knowledge to sharpen their ideas and execution strategies.</p>
 													<div className="space32" />
 												</div>
 											</div>
@@ -491,7 +464,7 @@ export default function Section3() {
 														</li>
 													</ul>
 													<div className="space20" />
-													<Link href="/event-single" className="head">9. Jamming Session</Link>
+													<Link href="/event-single" className="head">8. Jamming Session</Link>
 													<div className="space16" />
 													<p>Participants come together in a relaxed setting to unwind through music, fun activities, and informal interactions. It’s a creative break that fosters bonding, refreshes minds, and builds team spirit. The session adds a lively and energetic vibe to the Startup Weekend experience.</p>
 													<div className="space32" />
@@ -597,7 +570,7 @@ export default function Section3() {
 													<ul>
 														<li>
 															<Link href="/#"><img src="/assets/img/icons/clock1.svg" alt="" /> 07:00
-																AM - 10:00 AM <span> | </span></Link>
+																AM - 08:00 AM <span> | </span></Link>
 														</li>
 														<li>
 															<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" /> GLA University, Mathura </Link>
@@ -612,6 +585,7 @@ export default function Section3() {
 											</div>
 										</div>
 									</div>
+									<div classname="space30" />
 									<div className="space30" />
 									<div className="tabs-widget-boxarea">
 										<div className="row align-items-center">
