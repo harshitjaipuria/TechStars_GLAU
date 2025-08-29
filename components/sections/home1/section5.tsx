@@ -80,26 +80,26 @@ export default function Section4() {
 									<div className="text-area">
 										<Link href="/speakers">Dr. Anoop Kumar Gupta </Link>
 										<div className="space16" />
-										<p>Vice Chancellor | Chief Patron</p>
+										<p>Hon’ble Vice Chancellor | Chief Patron</p>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="team-widget-boxarea">
 									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/PJ.png" alt="" />
-										<ul>											
+										<img src="/assets/img/all-images/team/VA.png" alt="" />
+										<ul>
 											<li>
-												<Link href="https://www.linkedin.com/in/dr-pramod-joshi-3774253/"><i className="fa-brands fa-linkedin-in" /></Link>
+												<Link href="https://www.linkedin.com/in/anoop-gupta-61236717/"><i className="fa-brands fa-linkedin-in" /></Link>
 											</li>
 											<li>
-												<Link href="https://www.facebook.com/pramod.k.joshi.12"><i className="fa-brands fa-facebook-f" /></Link>
+												<Link href="https://www.linkedin.com/in/anoop-gupta-61236717/"><i className="fa-brands fa-facebook-f" /></Link>
 											</li>
 										</ul>
 									</div>
 									<div className="space20" />
 									<div className="text-area">
-										<Link href="/speakers">Dr. Pramod Joshi</Link>
+										<Link href="/speakers">Dr. Vivek Agrawal</Link>
 										<div className="space16" />
-										<p>External Mentor</p>
+										<p>Hon’ble CFO Dr.Vivek Aggarwal GLAU</p>
 									</div>
 								</SwiperSlide>
 								<SwiperSlide className="team-widget-boxarea">
@@ -154,6 +154,25 @@ export default function Section4() {
 										<Link href="/speakers">Jitendra Sharma</Link>
 										<div className="space16" />
 										<p>Mentor</p>
+									</div>
+								</SwiperSlide>
+								<SwiperSlide className="team-widget-boxarea">
+									<div className="img1 image-anime">
+										<img src="/assets/img/all-images/team/PJ.png" alt="" />
+										<ul>											
+											<li>
+												<Link href="https://www.linkedin.com/in/dr-pramod-joshi-3774253/"><i className="fa-brands fa-linkedin-in" /></Link>
+											</li>
+											<li>
+												<Link href="https://www.facebook.com/pramod.k.joshi.12"><i className="fa-brands fa-facebook-f" /></Link>
+											</li>
+										</ul>
+									</div>
+									<div className="space20" />
+									<div className="text-area">
+										<Link href="/speakers">Dr. Pramod Joshi</Link>
+										<div className="space16" />
+										<p>External Mentor</p>
 									</div>
 								</SwiperSlide>
 
