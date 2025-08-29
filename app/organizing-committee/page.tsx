@@ -176,7 +176,7 @@ export default function OrganizingCommittee() {
 			name: "Asmit Jain",
 			position: "Marketing Head",
 			image: "/assets/council/10.png",
-			linkedin: "https://www.linkedin.com/",
+			linkedin: "/#",
 			instagram: "https://www.instagram.com/asmitjain_/"
 		},
 		{
