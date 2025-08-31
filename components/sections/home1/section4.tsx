@@ -9,6 +9,7 @@ const swiperOptions = {
 	autoplay: {
 		delay: 1800,
 		disableOnInteraction: false,
+		pauseOnMouseEnter: true,
 	},
 	loop: true,
 
@@ -74,11 +75,6 @@ export default function Section4() {
 									<SwiperSlide className="team-widget-boxarea">
 										<div className="img1 image-anime">
 											<img src="/assets/img/all-images/team/team-img1.png" alt="" />
-											<ul>
-												<li>
-													<Link href="https://www.linkedin.com/in/rajib-banerjee-6922b99/"><i className="fa-brands fa-linkedin-in" /></Link>
-												</li>
-											</ul>
 										</div>
 										<div className="space20" />
 										<div className="text-area">
@@ -90,11 +86,6 @@ export default function Section4() {
 									<SwiperSlide className="team-widget-boxarea">
 										<div className="img1 image-anime">
 											<img src="/assets/img/all-images/team/team-img2.png" alt="" />
-											<ul>											
-												<li>
-													<Link href="https://www.linkedin.com/in/rahullakhmani/"><i className="fa-brands fa-linkedin-in" /></Link>
-												</li>
-											</ul>
 										</div>
 										<div className="space20" />
 										<div className="text-area">
@@ -106,11 +97,6 @@ export default function Section4() {
 									<SwiperSlide className="team-widget-boxarea">
 										<div className="img1 image-anime">
 											<img src="/assets/img/all-images/team/team-img3.png" alt="" />
-											<ul>
-												<li>
-													<Link href="https://www.linkedin.com/in/himanshusinglaa/"><i className="fa-brands fa-linkedin-in" /></Link>
-												</li>
-											</ul>
 										</div>
 										<div className="space20" />
 										<div className="text-area">
@@ -122,11 +108,6 @@ export default function Section4() {
 									<SwiperSlide className="team-widget-boxarea">
 										<div className="img1 image-anime">
 											<img src="/assets/img/all-images/team/team-img45.png" alt="" />
-											<ul>
-												<li>
-													<Link href="https://www.linkedin.com/in/devansh-s-bhatt-a999481a1/"><i className="fa-brands fa-linkedin-in" /></Link>
-												</li>
-											</ul>
 										</div>
 										<div className="space20" />
 										<div className="text-area">

@@ -3,14 +3,21 @@ import Link from "next/link";
 import { Autoplay, Navigation, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 const swiperOptions = {
-  modules: [Autoplay, Pagination],
+  modules: [Autoplay, Pagination, Navigation],
   slidesPerView: 3,
   spaceBetween: 30,
   autoplay: {
-    delay: 2500,
+    delay: 1800,
     disableOnInteraction: false,
+    pauseOnMouseEnter: true,
   },
   loop: true,
+
+  // Navigation
+  navigation: {
+    nextEl: '.owl-next',
+    prevEl: '.owl-prev',
+  },
 
   // Pagination
   pagination: {
@@ -61,7 +68,8 @@ export default function Section4() {
           </div>
           <div className="row">
             <div className="col-lg-12 position-relative">
-              <Swiper {...swiperOptions} className="team-slider-area ">
+              <div className="team-slider-area">
+                <Swiper {...swiperOptions} className="owl-carousel">
                 <SwiperSlide className="team-widget-boxarea">
                   <div className="img1 image-anime">
                     <img src="/assets/img/all-images/team/VA.png" alt="" />
@@ -183,7 +191,17 @@ export default function Section4() {
                     <p>External Mentor</p>
                   </div>
                 </SwiperSlide>
-              </Swiper>
+                </Swiper>
+                
+                <div className="owl-nav">
+                  <button type="button" role="presentation" className="owl-prev h1p">
+                    <i className="fa-solid fa-angle-left" />
+                  </button>
+                  <button type="button" role="presentation" className="owl-next h1n">
+                    <i className="fa-solid fa-angle-right" />
+                  </button>
+                </div>
+              </div>
             </div>
           </div>
         </div>
