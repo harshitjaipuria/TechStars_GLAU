@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { Autoplay, Navigation, Pagination } from "swiper/modules"
 import { Swiper, SwiperSlide } from "swiper/react"
 const swiperOptions = {
-	modules: [Autoplay, Pagination],
+	modules: [Autoplay, Pagination, Navigation],
 	slidesPerView: 3,
 	spaceBetween: 30,
 	autoplay: {
@@ -11,6 +11,12 @@ const swiperOptions = {
 		disableOnInteraction: false,
 	},
 	loop: true,
+
+	// Navigation
+	navigation: {
+		nextEl: '.owl-next',
+		prevEl: '.owl-prev',
+	},
 
 	// Pagination
 	pagination: {
@@ -63,73 +69,84 @@ export default function Section4() {
 					</div>
 					<div className="row">
 						<div className="col-lg-12 position-relative">
-							<Swiper {...swiperOptions} className="team-slider-area ">
-								<SwiperSlide className="team-widget-boxarea">
-									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img1.png" alt="" />
-										<ul>
-											<li>
-												<Link href="https://www.linkedin.com/in/rajib-banerjee-6922b99/"><i className="fa-brands fa-linkedin-in" /></Link>
-											</li>
-										</ul>
-									</div>
-									<div className="space20" />
-									<div className="text-area">
-										<Link href="/speakers">Rajib Banarejee</Link>
-										<div className="space16" />
-										<p>Speaker</p>
-									</div>
-								</SwiperSlide>
-								<SwiperSlide className="team-widget-boxarea">
-									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img2.png" alt="" />
-										<ul>											
-											<li>
-												<Link href="https://www.linkedin.com/in/rahullakhmani/"><i className="fa-brands fa-linkedin-in" /></Link>
-											</li>
-										</ul>
-									</div>
-									<div className="space20" />
-									<div className="text-area">
-										<Link href="/speakers">Rahul Lakhmani</Link>
-										<div className="space16" />
-										<p>Speaker</p>
-									</div>
-								</SwiperSlide>
-								<SwiperSlide className="team-widget-boxarea">
-									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img3.png" alt="" />
-										<ul>
-											<li>
-												<Link href="https://www.linkedin.com/in/himanshusinglaa/"><i className="fa-brands fa-instagram" /></Link>
-											</li>
-										</ul>
-									</div>
-									<div className="space20" />
-									<div className="text-area">
-										<Link href="/speakers">Himanshu Singla</Link>
-										<div className="space16" />
-										<p>Speaker</p>
-									</div>
-								</SwiperSlide>
-								<SwiperSlide className="team-widget-boxarea">
-									<div className="img1 image-anime">
-										<img src="/assets/img/all-images/team/team-img45.png" alt="" />
-										<ul>
-											<li>
-												<Link href="https://www.linkedin.com/in/devansh-s-bhatt-a999481a1/"><i className="fa-brands fa-linkedin-in" /></Link>
-											</li>
-										</ul>
-									</div>
-									<div className="space20" />
-									<div className="text-area">
-										<Link href="/speakers">Devansh S Bhatt</Link>
-										<div className="space16" />
-										<p>Speaker</p>
-									</div>
-								</SwiperSlide>
+							<div className="team-slider-area">
+								<Swiper {...swiperOptions} className="owl-carousel">
+									<SwiperSlide className="team-widget-boxarea">
+										<div className="img1 image-anime">
+											<img src="/assets/img/all-images/team/team-img1.png" alt="" />
+											<ul>
+												<li>
+													<Link href="https://www.linkedin.com/in/rajib-banerjee-6922b99/"><i className="fa-brands fa-linkedin-in" /></Link>
+												</li>
+											</ul>
+										</div>
+										<div className="space20" />
+										<div className="text-area">
+											<Link href="/speakers">Rajib Banarejee</Link>
+											<div className="space16" />
+											<p>Speaker</p>
+										</div>
+									</SwiperSlide>
+									<SwiperSlide className="team-widget-boxarea">
+										<div className="img1 image-anime">
+											<img src="/assets/img/all-images/team/team-img2.png" alt="" />
+											<ul>											
+												<li>
+													<Link href="https://www.linkedin.com/in/rahullakhmani/"><i className="fa-brands fa-linkedin-in" /></Link>
+												</li>
+											</ul>
+										</div>
+										<div className="space20" />
+										<div className="text-area">
+											<Link href="/speakers">Rahul Lakhmani</Link>
+											<div className="space16" />
+											<p>Speaker</p>
+										</div>
+									</SwiperSlide>
+									<SwiperSlide className="team-widget-boxarea">
+										<div className="img1 image-anime">
+											<img src="/assets/img/all-images/team/team-img3.png" alt="" />
+											<ul>
+												<li>
+													<Link href="https://www.linkedin.com/in/himanshusinglaa/"><i className="fa-brands fa-linkedin-in" /></Link>
+												</li>
+											</ul>
+										</div>
+										<div className="space20" />
+										<div className="text-area">
+											<Link href="/speakers">Himanshu Singla</Link>
+											<div className="space16" />
+											<p>Speaker</p>
+										</div>
+									</SwiperSlide>
+									<SwiperSlide className="team-widget-boxarea">
+										<div className="img1 image-anime">
+											<img src="/assets/img/all-images/team/team-img45.png" alt="" />
+											<ul>
+												<li>
+													<Link href="https://www.linkedin.com/in/devansh-s-bhatt-a999481a1/"><i className="fa-brands fa-linkedin-in" /></Link>
+												</li>
+											</ul>
+										</div>
+										<div className="space20" />
+										<div className="text-area">
+											<Link href="/speakers">Devansh S Bhatt</Link>
+											<div className="space16" />
+											<p>Speaker</p>
+										</div>
+									</SwiperSlide>
 
-							</Swiper>
+								</Swiper>
+								
+								<div className="owl-nav">
+									<button type="button" role="presentation" className="owl-prev h1p">
+										<i className="fa-solid fa-angle-left" />
+									</button>
+									<button type="button" role="presentation" className="owl-next h1n">
+										<i className="fa-solid fa-angle-right" />
+									</button>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
