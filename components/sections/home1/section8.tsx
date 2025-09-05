@@ -18,6 +18,11 @@ export default function Section8() {
 								<img src="/assets/img/elements/brand-img1.png" alt="" />
 							</div>
 						</div>
+						<div className="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-duration={800}>
+							<div className="brand-box">
+								<img src="/assets/img/elements/sparkl.png" alt="" />
+							</div>
+						</div>
 						<div className="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-duration={900}>
 							<div className="brand-box">
 								<img src="/assets/img/elements/brand-img2.png" alt="" />
