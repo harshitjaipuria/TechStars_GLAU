@@ -444,21 +444,6 @@ export default function Section6() {
 										<Link href="/organizing-committee">Team Hospitality</Link>
 									</div>
 								</SwiperSlide>
-								<SwiperSlide className="memory-boxarea">
-									<div className="img1 image-anime">
-										<img src="/assets/council homepage/22.png" alt="" />
-									</div>
-									<div className="content-area">
-										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
-										<div className="arrow">
-											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
-										</div>
-										<div className="space18" />
-										<p>Krish Choudhary</p>
-										<div className="space12" />
-										<Link href="/organizing-committee">Team Operations</Link>
-									</div>
-								</SwiperSlide>
 
 							</Swiper>
 													

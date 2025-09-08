@@ -93,6 +93,22 @@ export default function OrganizingCommittee() {
 		},
 		{
 			id: 12,
+			name: "Aditya Yadav",
+			position: "Delligence Incharge",
+			image: "/assets/council/26.png",
+			linkedin: "https://www.linkedin.com/in/aditya-yadav-570846289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+			instagram: "https://www.instagram.com/aditya._.5?igsh=MXYwNzM5NHU0aWEzMA=="
+		},
+		{
+			id: 13,
+			name: "Aditya Yadav",
+			position: "Delligence Incharge",
+			image: "/assets/council/26.png",
+			linkedin: "https://www.linkedin.com/in/aditya-yadav-570846289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+			instagram: "https://www.instagram.com/aditya._.5?igsh=MXYwNzM5NHU0aWEzMA=="
+		},
+		{
+			id: 14,
 			name: "Harshit Jaipuria",
 			position: "Sponsorship Head",
 			image: "/assets/council/11.png",
@@ -100,7 +116,7 @@ export default function OrganizingCommittee() {
 			instagram: "https://www.instagram.com/harshit_jaipuria/"
 		},
 		{
-			id: 13,
+			id: 15,
 			name: "Anuj Sengar",
 			position: "Media & Publicity Co-Head",
 			image: "/assets/council/7.png",
@@ -108,7 +124,7 @@ export default function OrganizingCommittee() {
 			instagram: "https://www.instagram.com/anujsengarr/"
 		},
 		{
-			id: 14,
+			id: 16,
 			name: "Sarthak Singh",
 			position: "Design Head",
 			image: "/assets/council/8.png",
@@ -116,7 +132,7 @@ export default function OrganizingCommittee() {
 			instagram: "https://www.instagram.com/_sarthak._.singh_/"
 		},
 		{
-			id: 15,
+			id: 17,
 			name: "Tarun Sharma",
 			position: "Data Head",
 			image: "/assets/council/14.png",
@@ -124,7 +140,7 @@ export default function OrganizingCommittee() {
 			instagram: "https://www.instagram.com/tar_unsharma77/"
 		},
 		{
-			id: 16,
+			id: 18,
 			name: "Nancy Paul",
 			position: "Data Co-Head",
 			image: "/assets/council/22.png",
@@ -132,7 +148,7 @@ export default function OrganizingCommittee() {
 			instagram: "https://www.instagram.com/nancypaul_08/"
 		},
 		{
-			id: 17,
+			id: 19,
 			name: "Samarth Gurjar",
 			position: "Operations Head",
 			image: "/assets/council/16.png",
@@ -140,7 +156,7 @@ export default function OrganizingCommittee() {
 			instagram: "https://www.instagram.com/singh.samarth___/"
 		},
 		{
-			id: 18,
+			id: 20,
 			name: "Ansh Tomar",
 			position: "Operations Co-Head",
 			image: "/assets/council/24.png",
@@ -148,7 +164,7 @@ export default function OrganizingCommittee() {
 			instagram: "https://www.instagram.com/tomar_ansh23/"
 		},
 		{
-			id: 19,
+			id: 21,
 			name: "Abhinav Saxena",
 			position: "Judges & Mentors Head",
 			image: "/assets/council/15.png",
@@ -156,7 +172,7 @@ export default function OrganizingCommittee() {
 			instagram: "/#"
 		},
 		{
-			id: 20,
+			id: 22,
 			name: "Aryan Singh",
 			position: "Logistics Head",
 			image: "/assets/council/4.png",
@@ -164,7 +180,7 @@ export default function OrganizingCommittee() {
 			instagram: "https://www.instagram.com/_aironer_/"
 		},
 		{
-			id: 21,
+			id: 23,
 			name: "Harsh Raj",
 			position: "Tech Head",
 			image: "/assets/council/5.png",
@@ -172,7 +188,7 @@ export default function OrganizingCommittee() {
 			instagram: "https://www.instagram.com/_.harsh._raj/"
 		},
 		{
-			id: 22,
+			id: 24,
 			name: "Asmit Jain",
 			position: "Marketing Head",
 			image: "/assets/council/10.png",
@@ -180,15 +196,7 @@ export default function OrganizingCommittee() {
 			instagram: "https://www.instagram.com/asmitjain_/"
 		},
 		{
-			id: 23,
-			name: "Krish Choudhary",
-			position: "Team Operations",
-			image: "/assets/council/25.png",
-			linkedin: "http://www.linkedin.com/in/krish-choudhary-55b9a030b",
-			instagram: "https://www.instagram.com/chaudhary_krish_0?utm_source=qr&igsh=MXNiZTJ0OWFncTdyMA=="
-		},
-		{
-			id: 24,
+			id: 25,
 			name: "Bhoomika Agrawal",
 			position: "Hospitality Team",
 			image: "/assets/council/19.png",
