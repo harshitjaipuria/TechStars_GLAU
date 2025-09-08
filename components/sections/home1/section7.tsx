@@ -236,6 +236,36 @@ export default function Section6() {
 								</SwiperSlide>
 								<SwiperSlide className="memory-boxarea">
 									<div className="img1 image-anime">
+										<img src="/assets/council homepage/soham.png" alt="" />
+									</div>
+									<div className="content-area">
+										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
+										<div className="arrow">
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
+										</div>
+										<div className="space18" />
+										<p>Soham Rajawat</p>
+										<div className="space12" />
+										<Link href="/organizing-committee">Chief Photographer</Link>
+									</div>
+								</SwiperSlide>
+								<SwiperSlide className="memory-boxarea">
+									<div className="img1 image-anime">
+										<img src="/assets/council homepage/9.png" alt="" />
+									</div>
+									<div className="content-area">
+										<img src="/assets/img/icons/logo1.svg" alt="" className="logo1 keyframe5" />
+										<div className="arrow">
+											<Link href=""><i className="fa-solid fa-arrow-right" /></Link>
+										</div>
+										<div className="space18" />
+										<p>Aman Chandra</p>
+										<div className="space12" />
+										<Link href="/organizing-committee">Media & Publicity Head</Link>
+									</div>
+								</SwiperSlide>
+								<SwiperSlide className="memory-boxarea">
+									<div className="img1 image-anime">
 										<img src="/assets/council homepage/11.png" alt="" />
 									</div>
 									<div className="content-area">
