@@ -101,11 +101,11 @@ export default function OrganizingCommittee() {
 		},
 		{
 			id: 13,
-			name: "",
-			position: "Delligence Incharge",
-			image: "/assets/council/26.png",
-			linkedin: "https://www.linkedin.com/in/aditya-yadav-570846289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-			instagram: "https://www.instagram.com/aditya._.5?igsh=MXYwNzM5NHU0aWEzMA=="
+			name: "Sparsh Sharma",
+			position: "Chief Editor",
+			image: "/assets/council/33.png",
+			linkedin: "https://www.linkedin.com/in/sparsh-sharma-356761289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+			instagram: "https://www.instagram.com/sparsh_sharma.19?igsh=NmM1ejc2ZTduMGw5"
 		},
 		{
 			id: 14,
