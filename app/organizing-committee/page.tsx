@@ -93,15 +93,15 @@ export default function OrganizingCommittee() {
 		},
 		{
 			id: 12,
-			name: "Aditya Yadav",
-			position: "Delligence Incharge",
-			image: "/assets/council/26.png",
-			linkedin: "https://www.linkedin.com/in/aditya-yadav-570846289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-			instagram: "https://www.instagram.com/aditya._.5?igsh=MXYwNzM5NHU0aWEzMA=="
+			name: "Soham Rajawat",
+			position: "Chief Photographer",
+			image: "/assets/council/34.png",
+			linkedin: "https://www.linkedin.com/in/soham-rajawat-201995382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+			instagram: "https://www.instagram.com/_s.air.r_?igsh=MWRrdGE4OTVpODN3Yw=="
 		},
 		{
 			id: 13,
-			name: "Aditya Yadav",
+			name: "",
 			position: "Delligence Incharge",
 			image: "/assets/council/26.png",
 			linkedin: "https://www.linkedin.com/in/aditya-yadav-570846289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
