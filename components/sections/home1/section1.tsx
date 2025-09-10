@@ -18,7 +18,7 @@ export default function Section1() {
 								<div className="space16" />
 								<h1 className="text-anime-style-3">
 									TechStars Startup Weekend <br className="d-lg-block d-none" />
-									GLAU
+									AI Mathura
 								</h1>
 								<div className="space16" />
 								<p data-aos="fade-left" data-aos-duration={900}>
